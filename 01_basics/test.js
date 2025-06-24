@@ -20,3 +20,4 @@ console.log(name,age)
 name="Ajay"
 age=16
 console.log(name,age)
+
